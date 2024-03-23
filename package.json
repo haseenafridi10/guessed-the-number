@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "name": "haseen-guessed-the-number",
+  "description": "This CLI based number guessing game.",
+  "version": "2.0.1",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Haseen",
+  "license": "ISC"
+}
